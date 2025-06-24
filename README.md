@@ -5,10 +5,10 @@ A card will be placed in the centre (cannot be a joker) and the first player mus
 The cards presented must not be revealed and the player presenting the cards should suggest to the player to their right which card to pick.
 The presenter can lie about which card has a higher value and the picker can select whichever card they'd like to place in the centre.
 There are 6 different outcomes that could occur:
-  -Suggested higher card was selected:
+  - Suggested higher card was selected:
     - If it has a higher/same value as the card in the center then that card can just be placed in the centre and the game continues
     - If it has a lower value then the picker places two of their own cards in the centre and the game continues (aka they were tricked and will need to suffer)
-  -Picker chooses the card that was not suggested:
+  - Picker chooses the card that was not suggested:
     - If it has a higher/same value as the card in the center then the suggester would need to place two of their cards in the centre (aka they tried to trick the picker and failed so they must suffer)
     - If it has a lower value then the picker places two of their own cards in the centre and the game continues (aka they should have been more trusting so they will suffer)
   - If both suggested cards have a lower value then the picker and suggestor should swap 2 cards randomly.
